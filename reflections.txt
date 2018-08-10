@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+The new skills I have learned are html tags that I was unfamiliar with.
+The assignment was easy because it did not require any CSS.
+The only difficult part is remembering what CSS tags achieve the desired effect.
+The problem solving skills I used were using a resource such as W3Schools to search html tags.
